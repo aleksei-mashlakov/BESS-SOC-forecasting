@@ -2,7 +2,7 @@ This folder contains the dataset that were used in a manuscript "Probabilistic F
 
 
 Please cite the following paper if you use the dataset:
-
+```
 @article{mashlakov2019probabilistic,
   title={Probabilistic forecasting of battery energy storage state-of-charge under primary frequency control},
   author={Mashlakov, Aleksei and Lensu, Lasse and Kaarna, Arto and Tikka, Ville and Honkapuro, Samuli},
@@ -10,3 +10,4 @@ Please cite the following paper if you use the dataset:
   year={2019},
   publisher={IEEE}
 }
+```
